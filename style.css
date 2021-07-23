@@ -28,7 +28,7 @@ body {
 
 .hero {
     height: 100vh;
-    background-image:  url(../PaginaWen2/f1.jpg);
+    background-image:  url(f1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
